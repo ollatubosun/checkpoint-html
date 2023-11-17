@@ -1,4 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+nav{
+    display: inline;
+}
+
 .main-nav{
+    
     background-color:beige;
     padding: 20px;
     
@@ -12,6 +19,9 @@
     align-items: center;
     display: flex;
     justify-content: space-between
+    
+
+    
 }
 
 a{
@@ -24,6 +34,7 @@ a{
 body{
     margin:10px;
     padding: 10px;
+    font-family: 'Roboto', sans-serif
 
 }
 
